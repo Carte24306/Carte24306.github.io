@@ -1,0 +1,41 @@
+* {
+  font-family: arial;
+}
+
+div{
+  border-style: solid;
+  margin: 1px;
+  padding: 2px;
+  border-radius: 5px;
+
+}
+#content {
+  text-align: center;
+}
+
+#headerbox {
+  text-align: center;
+background-image: url('ba.gif');
+  color: #39FF14;
+   text-shadow: 3px 3px black;
+
+
+
+}
+
+#linksbox {
+  background-color: BLACK;
+}
+
+#parasbox {background-color: #39FF14;  border: 1px solid #39FF14;
+  border-radius: 5px;}
+
+.para {background-image: url('background.gif');
+COLOR: #39FF14;}
+.para p {color: white;}
+.para h3 {text-align: center;}
+.para iframe {text-align: center;}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
